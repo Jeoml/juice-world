@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.juice.app-debug-59:/xml_network_security_config.xml.flat",
+        "source": "com.juice.app-main-61:/xml/network_security_config.xml"
+    }
+]
